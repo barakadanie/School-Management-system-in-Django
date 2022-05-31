@@ -1,0 +1,1 @@
+# School-Management-system-in-Django
